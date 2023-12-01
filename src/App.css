@@ -7,13 +7,13 @@ body {
 .app {
   max-width: 600px;
   margin: 0 auto 300px;
-  background: black;
+  background: rgb(255, 121, 121);
   padding: 20px 30px;
   border-radius: 10px;
 }
 
 .app h1 {
-  color: white;
+  color: #333;
 }
 
 h1 {
@@ -29,7 +29,7 @@ input {
   box-sizing: border-box;
 }
 button {
-  background: #360ae3;
+  background: #7250f7;
   color: white;
   padding: 5px 10px;
   margin-right: 10px;
